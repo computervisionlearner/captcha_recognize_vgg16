@@ -1,0 +1,2 @@
+# captcha_recognize_vgg16
+用vgg16训练端到端的验证码识别网络
